@@ -1,15 +1,18 @@
 # H1N1 Vaccine Prediction
+---
 ## GDSC AI Bootcamp - Capstone project 
 
-- <b>Team
+### <b>Team
 
 Gafar Aamir
 
 Albaraa Elsharif
 
 Tasabeeh Salah
+---
 
-- <b>Overview
+
+### <b>Overview
 
   
 Beginning in spring 2009, a pandemic caused by the H1N1 influenza virus, colloquially named "swine flu," swept across the world. Researchers estimate that in the first year, it was responsible for between 151,000 to 575,000 deaths globally.
@@ -19,7 +22,9 @@ A vaccine for the H1N1 flu virus became publicly available in October 2009. In l
 In this project, we will take a look at vaccination, a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases through "herd immunity."
 
 Influenza virus vaccine, H1N1 is used to prevent infection caused by the influenza A (H1N1) 2009 virus. The vaccine works by causing your body to produce its own protection (antibodies) against the disease. It is also known as a "flu shot".
+---
 
--<b> Data
+
+### <b> Data
 
 This data comes from a NHFS National Flu Survey from 2009, which inquires about whether or not people received the seasonal flu and/or the H1N1 flu vaccination, as well as their demographic, behavioral, and health factors. There are 26,000 respondents to this survey. In this project we chose H1N1 vaccination rate as our target variable. We used all features in the survey, and filled missing values using mean and mode values.
