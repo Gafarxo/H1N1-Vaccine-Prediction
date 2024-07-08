@@ -1,14 +1,17 @@
 # H1N1 Vaccine Prediction
 ---
+
 ## GDSC AI Bootcamp - Capstone project 
 
-### <b>Team
+
+### Team
 
 Gafar Aamir
 
 Albaraa Elsharif
 
 Tasabeeh Salah
+
 ---
 
 
@@ -22,6 +25,7 @@ A vaccine for the H1N1 flu virus became publicly available in October 2009. In l
 In this project, we will take a look at vaccination, a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases through "herd immunity."
 
 Influenza virus vaccine, H1N1 is used to prevent infection caused by the influenza A (H1N1) 2009 virus. The vaccine works by causing your body to produce its own protection (antibodies) against the disease. It is also known as a "flu shot".
+
 ---
 
 
