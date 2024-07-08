@@ -2,8 +2,11 @@
 ## GDSC AI Bootcamp - Capstone project 
 
 - <b>Team
+
 Gafar Aamir
+
 Albaraa Elsharif
+
 Tasabeeh Salah
 
 - <b>Overview
