@@ -32,3 +32,8 @@ Influenza virus vaccine, H1N1 is used to prevent infection caused by the influen
 ### <b> Data
 
 This data comes from a NHFS National Flu Survey from 2009, which inquires about whether or not people received the seasonal flu and/or the H1N1 flu vaccination, as well as their demographic, behavioral, and health factors. There are 26,000 respondents to this survey. In this project we chose H1N1 vaccination rate as our target variable. We used all features in the survey, and filled missing values using mean and mode values.
+
+---
+
+### Colab link
+https://colab.research.google.com/drive/13MwIT3bz1FaEWDhygyjjE1Gi__WiDzfk?usp=sharing
